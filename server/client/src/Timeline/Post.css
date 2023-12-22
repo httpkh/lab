@@ -1,0 +1,80 @@
+Post {
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    
+}
+ 
+  .postphoto{
+    width:400px;
+    height: 500px;
+    margin-top: 00px;
+    margin-left: -250px;
+  }
+  .like{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: white;
+    background: 0;
+    border: 0;
+    margin:10px;
+    margin-left:125px;
+    padding: 10px;
+    border-radius: 20px;
+    width: 100%;
+  }
+  .like span{
+    font-size: 20px;
+    margin-left:10px;
+  }
+  .comment{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: greenn;
+    background: 0;
+    border: 0;
+    margin:10px;
+    margin-top: -53px;
+    margin-left:170px;
+    padding: 10px;
+    border-radius: 20px;
+    width: 100%;
+  }
+ 
+ 
+ 
+  .comment span{
+    font-size: 18px;
+    margin-left:10px;
+  }
+ 
+  .user{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: blue;
+    background: 0;
+    border: 0;
+    margin:10px;
+    margin-top: 50px;
+    margin-left:130px;
+    padding: 10px;
+    border-radius: 20px;
+    width: 100%;
+  }
+ 
+ 
+ 
+  .user span{
+    font-size: 18px;
+    margin-left:10px;
+  }
+ 
+  .text {
+    color: red;
+    margin-right:667px;
+    margin-top: -15px;
+ 
+}
